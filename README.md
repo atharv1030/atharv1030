@@ -43,7 +43,7 @@ Always eager to learn, grow, and contribute to meaningful tech communities!
 ---
 
 # 💻 My Recent Projects
-- [E-Commerce Product Page (React + TailwindCSS)](https://your-vercel-link.vercel.app)
+- [E-Commerce Product Page (React + TailwindCSS)](https://nexusmart-chi.vercel.app/)
 - [Upcoming: Portfolio Website (React + Three.js)](https://coming-soon-link.com)
 
 ---
