@@ -1,6 +1,6 @@
 # Hi there, I'm Atharv Tiwari! 👋
 
-### A passionate coder and 3rd-year Computer Science student 🚀
+### A passionate coder and Final Year Computer Science student 🚀
 
 I love building projects that solve real-world problems and bring creative ideas to life.  
 Currently diving deeper into **Web Development**, **Cloud Computing**, and **System Design**.  
